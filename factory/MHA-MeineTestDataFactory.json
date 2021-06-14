@@ -1,0 +1,9 @@
+{
+	"name": "MHA-MeineTestDataFactory",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc3027b3-0625-4993-b919-4f965208bde3",
+		"tenantId": "f5901c7e-921d-4cee-bcc3-a52de8697d65"
+	}
+}
